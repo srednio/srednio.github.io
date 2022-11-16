@@ -1,0 +1,50 @@
+{"customer":
+    {
+    "profile": {
+        "firstName": "Stefan",
+        "lastName": "Wąski",
+        "email": "stefan.waski@test.pl",
+        "phoneNumber": "+48500500500",
+        "dateOfBirth": "1970-01-01",
+        "gender": "M",
+        "country": "PL",
+        "verified": false,
+        "firstTime": true
+    },
+    "consents": [
+        {
+        "type": "marketing",
+        "brand": "GLO",
+        "dateCreated": "2022-11-11 21:37:00"
+        },
+        {
+        "type": "general",
+        "dateCreated": "2022-11-11 21:37:00"
+        },
+        {
+        "type": "marketing",
+        "brand": "VUSE",
+        "dateCreated": "2022-11-11 21:37:00"
+        },
+        {
+        "type": "dutyfree",
+        "dateCreated": "2022-11-11 21:37:00"
+        }
+    ],
+    "interactions": [
+        {
+        "type": "webform",
+        "channel": "airportPOS",
+        "location": "Frankfurt",
+        "dateCreated": "2022-11-11 21:37:00"
+        },
+        {
+        "type": "browsing",
+        "channel": "airportPOS",
+        "brand": "GLO",
+        "location": "Frankfurt",
+        "dateCreated": "2022-11-11 21:37:00"
+        }
+    ]
+    }
+}
